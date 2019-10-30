@@ -4,6 +4,11 @@ html {
   background-image: url(../images/3px-tile.png);
 }
 
+a {
+  color: blue;
+  font-family: 'Press Start 2P', cursive;
+}
+
 h3 {
   color: red;
   font-family: 'Press Start 2P', cursive;
